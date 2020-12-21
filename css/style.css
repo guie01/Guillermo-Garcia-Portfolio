@@ -19,3 +19,14 @@
     font-family: 'Montserrat', sans-serif;
     padding-top:20%;
 }
+
+/*Portfolio Page*/
+.portfolio{
+    padding-top: 5%;
+}
+#portfolio_title{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(70, 178, 240);
+    font-size: 50px;
+    font-weight: 700;
+}
