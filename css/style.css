@@ -4,9 +4,12 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-/*Main Body*/
-
+/*Cover Page*/
 .main-body{
-    margin top: 50%;
-    margin left: 50%;
+    padding-top: 5%;
+}
+
+#salute-all{
+    font-family: 'Montserrat', sans-serif;
+    padding-top:20%;
 }
