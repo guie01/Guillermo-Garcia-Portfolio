@@ -1,5 +1,4 @@
 /* Header & Navbar */
-
 .header_top{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
@@ -26,7 +25,9 @@
 }
 #portfolio_title{
     font-family: 'Montserrat', sans-serif;
-    color: rgb(70, 178, 240);
     font-size: 50px;
     font-weight: 700;
+}
+.col-sm-4{
+    cursor: pointer;
 }
