@@ -3,6 +3,11 @@
 .header_top{
     font-family: 'Montserrat', sans-serif;
 }
+.logo-image{
+    width: 5%;
+    height:auto;
+    background-color: transparent;
+}
 
 /*Cover Page*/
 .main-body{
