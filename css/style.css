@@ -31,3 +31,9 @@
 .col-sm-4{
     cursor: pointer;
 }
+
+/*About Page*/
+#image-about{
+    width: 250px;
+    float: left;
+}
