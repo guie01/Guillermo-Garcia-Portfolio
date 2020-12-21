@@ -44,3 +44,15 @@
 .about-me{
     font-family: 'Montserrat', sans-serif;
 }
+
+/*Contact Page*/
+.contact-me{
+    font-style: 'Montserrat', sans-serif;
+    font-weight: 700;
+    padding-top:5%;
+    padding-left:20%;
+    padding-right: 20%;
+}
+.contact-title{
+    font-size: 50px;
+}
