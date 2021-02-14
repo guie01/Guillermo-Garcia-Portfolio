@@ -71,7 +71,7 @@
     text-align: center;
     color: white;
     text-align: right;
-    margin-right: 5%;
+    margin-right: 10%;
   }
 
   #project-image:hover + #project-text{
@@ -96,7 +96,7 @@
     text-align: center;
     color: white;
     text-align: right;
-    margin-right: 5%;
+    margin-right: 10%;
   }
 
 #weather-image{
