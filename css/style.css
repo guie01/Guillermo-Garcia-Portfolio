@@ -23,6 +23,13 @@
     font-family: 'Montserrat', sans-serif;
     padding-top:20%;
 }
+
+.icon-cover{
+    font-size: 25px;
+    margin-right: 2.5%;
+    cursor: pointer;
+}
+
 /*Portfolio Page*/
 .portfolio{
     padding-top: 5%;
